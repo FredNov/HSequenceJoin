@@ -1,6 +1,15 @@
 # HSequenceJoin
 
-Tool for joining rendered sequences into video files or gifs using ffmpeg. 
+Houdini ROP asset for joining flipbook or rendered \*.exr, \*.jpg , etc image sequences into video files using ffmpeg
+
+Joins :     
+- Rendered sequences to video files using ffmpeg (runs automatically after render complete)
+- Flipbook sequences
+- External path sequences
+
+![Help](Help/HSequenceJoin.gif)
+
+If you spot any bug, please feel free to send me an email at gammany@gmail.com
 
 How to Install:
 
